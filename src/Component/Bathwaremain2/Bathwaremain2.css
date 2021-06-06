@@ -1,0 +1,25 @@
+.bathwaremain2{
+    overflow: hidden;
+}
+.bath_brands{
+    font-weight: 550;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(82, 79, 79);
+    letter-spacing: 2px;
+    text-align: center;
+}
+.align_ourbrands{
+    margin-top: 3em;
+}
+/* .row-margin3{
+    padding-right: 15px;
+    padding-left: 15px;
+} */
+.bathbrands1{
+    height: 200px;
+    width: 100%;
+    border: 1px solid silver;
+    background-color: white;
+    margin: 3px;
+}

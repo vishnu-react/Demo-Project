@@ -1,0 +1,23 @@
+.alignment3{
+    overflow: hidden;
+}
+.division6{
+    width: 100%;
+}
+.innovation{
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+}
+.paragraph{
+    color: rgb(138, 132, 132);
+    font-size: 17px;
+    font-family: sans-serif;
+
+}
+.innovate1,.innovate2{
+    width: 104%;
+    /* margin: 2px; */
+}

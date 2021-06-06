@@ -1,0 +1,34 @@
+.alignment2{
+    overflow: hidden;
+}
+.division5{
+width: 100%;
+min-height: auto;
+}
+.tiles_align{
+    text-align: left;
+    color: rgb(138, 132, 132);
+    font-size: 20px;
+
+}
+.bathware_align{
+    text-align: left;
+    color: rgb(138, 132, 132);
+    font-size: 20px;
+
+}
+.new-product{
+    /* margin-top: 3em; */
+    font-weight: 600;
+    font-family: sans-serif;
+    color: rgb(82, 79, 79);
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 30px;
+}
+.text-white{
+    font-size: 16px;
+}
+.align3{
+    margin-top: 6em;
+}

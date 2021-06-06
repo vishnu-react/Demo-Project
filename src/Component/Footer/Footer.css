@@ -1,0 +1,164 @@
+
+.footer1{
+  overflow: hidden;
+}
+.whitelogo {
+  align-items: left;
+}
+.paras {
+  color: #b2b2b2;
+  text-align: justify;
+  font-size: 13px;
+  line-height: 22px;
+  margin-bottom: 14px;
+  margin: 0 0 10px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+span {
+  color: white;
+}
+.second-line {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 1px solid #979494;
+}
+.buttn1 {
+  background-color: #777;
+  color: white;
+  /* line-height: 40px; */
+  /* margin-top: 1px; */
+  border: 1px solid #777;
+  cursor: pointer;
+  height: 38px;
+  border: none;
+  border-radius: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.formcontrol {
+  background-color: #424242;
+  height: 38px;
+  border: none;
+  font-size: 16px;
+}
+.our-recognition {
+  margin-top: 3px;
+  letter-spacing: 3px;
+  font-family: sans-serif;
+  color: white;
+  text-align: left;
+  font-size: 20px;
+}
+.recog1 {
+  width: 100px;
+  height: 80px;
+  border-radius: 10px;
+  /* margin: 12px; */
+  /* display: block; */
+
+  /* border: 1px solid silver;
+    background-color:  rgb(49, 42, 42);
+    align-items: center; */
+}
+.recog2 {
+  width: 100px;
+  height: 80px;
+  border-radius: 10px;
+  /* margin: 12px; */
+
+  /* display: block; */
+}
+.recog3 {
+  width: 100px;
+  height: 80px;
+  border-radius: 10px;
+ 
+}
+.recog4 {
+  width: 100px;
+  height: 80px;
+  border-radius: 10px;
+  /* margin: 12px; */
+
+  /* display: block; */
+}
+.recog5 {
+  width: 100px;
+  height: 80px;
+  border-radius: 10px;
+}
+.recog6 {
+  width: 100px;
+  height: 80px;
+  border-radius: 10px;
+}
+.recog7 {
+  width: 100px;
+  height: 80px;
+  border-radius: 10px;
+}
+.recog8 {
+  width: 100px;
+  height: 80px;
+  border-radius: 10px;
+}
+.recog9 {
+  width: 100px;
+  height: 80px;
+  border-radius: 10px;
+}
+.recog10 {
+  width: 100px;
+  height: 80px;
+  border-radius: 10px;
+}
+.foot1{
+    background-color: black;
+}
+
+.footer1_list{
+    list-style: none;
+    text-align: justify;
+    
+}
+.footer1_list >li> a{
+  margin-top: 15px;
+    color: #828282;
+    transition: all .3s ease;
+    font-size: 13px;
+    line-height: 12px;
+    text-decoration: none;
+
+}
+.footer1_social{
+    
+    list-style: none;
+    text-align: justify;
+
+}
+.footer1_social li a{
+    color: white;
+    font-size: 17px;
+    text-decoration: none;
+    line-height: 10px;
+  
+}
+
+.para2{
+    font-size: 11px;
+    color:#b2b2b2;
+    text-align: center;
+} 
+.span1 a{
+    text-decoration: none;
+    color: white;
+}
+.span2 a{
+    text-decoration: none;
+    color:#7c7a7a
+
+}

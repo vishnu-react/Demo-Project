@@ -1,0 +1,84 @@
+.wtbmain1{
+    padding-left: 8px;
+    padding-right: 8px;
+    
+}
+.select_country{
+    font-size: 16px;
+    color: #000;
+}
+.select1{
+    border: 1px solid #ccc;
+    border-radius: 1px;
+    height: 32px;
+    padding: 4px 25px 5px 10px;
+    width: 100%;
+    box-sizing: border-box;
+   font-size: 15px;
+   color: rgb(99, 97, 97);
+
+}
+.opt{
+   font-size: 15px;
+   color: rgb(99, 97, 97);
+
+}
+.btn-success{
+    background-color: #5d5d5d;
+    color: #fff;
+    border-color: #5d5d5d;
+    height: 43px;
+    padding: 0 14px;
+    font-size: 12px;
+    line-height: 23px;
+    font-weight: 500;
+    border-radius: 0;
+    border: 1px solid #777;
+    
+}
+.wtb_line{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+.panel-heading{
+    background-color: #172f3a;
+    padding: 10px 7px ;
+    color: #fff ;
+    font-weight: 600;
+    font-size: 18px;
+}
+.panel_para{
+    padding: 5px;
+    line-height: 25px;
+    margin-bottom: 35px;
+    color: #777;
+    font-family: sans-serif;
+    font-size: 17px;
+
+
+}
+.span_panel{
+    font-weight: 600;
+    color: #777;
+    font-size: 17px;
+    font-family: sans-serif;
+
+}
+.link_num{
+    text-decoration: none;
+    color: #000;
+}
+.link_email{
+    text-decoration: none;
+    color: #006bb4;
+
+}
+.panel-body{
+    background-color: #f9f9f9;
+    border: 1px solid #dedede;
+    width: 100%;
+    padding: 0;
+   
+
+}

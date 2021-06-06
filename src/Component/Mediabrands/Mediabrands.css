@@ -1,0 +1,64 @@
+
+.media-align{
+    overflow: hidden;
+}
+.division7{
+    width: 100%;
+}
+.media_align{
+margin-top: 3em;
+}
+.media-brand{
+   
+    font-weight: 600;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(82, 79, 79);
+    letter-spacing: 2px;
+    text-align: center;
+}
+.brandcard1{
+    height: 20em;
+    width: 50%;
+    border: 1px solid silver;
+    background-color: white;
+    margin: 3px;
+}
+.brandcard2{
+    height: 20em;
+    width: 50%;
+    border: 1px solid silver;
+    background-color: white;
+    margin: 3px;
+}
+.brandcard3{
+    height: 20em;
+    width: 50%;
+    border: 1px solid silver;
+    background-color: white;
+    margin: 3px;
+}
+.brandcard4{
+    height: 20em;
+    width: 50%;
+    border: 5px solid silver;
+    background-color: white;
+    margin: 3px;
+}
+.brandcard5{
+    height: 20em;
+    width: 50%;
+    border: 1px solid silver;
+    background-color:  white;
+    margin: 3px;
+}
+.img1{
+
+    border: 1px solid silver;
+    background-color: #fff;
+   
+   
+}
+section{
+    min-height: 27em;
+}

@@ -1,0 +1,28 @@
+.footers1{
+    background-color: black;
+    color: white;
+    overflow: hidden;
+}
+.foot_arrange{
+    font-size: 18px;
+}
+.sub_para{
+    color: #828282;
+    font-size: 11px;
+    line-height: 10px;
+  
+}
+.arrag{
+ 
+    padding-top: 18px;
+}
+
+.dot_line{
+    border-bottom: 1px dotted rgb(148, 144, 144);
+    
+}
+.paras2{
+    font-size: 11px;
+    color:#b2b2b2;
+    text-align: center;
+}

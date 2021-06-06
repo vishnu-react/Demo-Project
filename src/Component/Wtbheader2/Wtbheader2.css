@@ -1,0 +1,25 @@
+.wtb_header2{
+    background-color: #172f3a;
+    padding: 20px 0;
+    width: 100%;
+
+}
+.wtb_h2{
+    color: #fff;
+    font-size: 24px;
+    font-weight: 450;
+    padding-top: 15px;
+}
+.wtb_row1{
+   
+    margin-left: 10px;
+}
+.wtb_link {
+    color:#fff;
+    text-decoration: none;
+    font-weight: 400px;
+    font-size: 18px;
+}
+.wtb_link>i{
+    padding-top: 15px;
+}

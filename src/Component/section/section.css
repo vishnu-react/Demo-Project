@@ -1,0 +1,67 @@
+.division3{
+   width: 100%;
+   
+    
+}
+.alignment{
+    overflow:hidden;
+}
+
+.sectionimg2{
+    height: 24em;
+    width: 100%;
+    margin-top: 6px;
+    
+}
+ 
+ .sectionimg6{
+    height: 20em;
+    width: 50%;
+    margin: 3px;
+    
+} 
+.sectionimg7{
+    height: 20em;
+    width: 42.5%;
+    /* margin: 3px; */
+    /* margin-left: -10px; */
+    /* margin-top: 5px; */
+    
+}
+.button1{
+    border-color: silver;
+    color: rgb(46, 45, 45);
+    font-family: sans-serif;
+    margin-right: 30em;
+    width: 30%;
+    border-radius: 0;
+    font-size: 16px;
+    height: 45px;
+    position: relative;
+    cursor: pointer;
+    margin-top: 15px;
+   
+}
+.button1:hover{
+    background-color:grey;
+    color: white;
+}
+.p2{
+    
+    color: #777;
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 16px;
+    line-height: 28px;
+    /* margin-bottom: 15px; */
+}
+
+.Tiles{
+    text-align: left;
+    color: rgb(138, 118, 118);
+    letter-spacing:7px ;
+    font-size: 30px;
+}
+.align{
+    margin-top: 7em;
+}

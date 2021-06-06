@@ -1,0 +1,61 @@
+.bathwaremain1{
+    overflow: hidden;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.bathwareimg1{
+  height: auto;
+  width: 100%;
+ 
+    margin-bottom: 15px;
+}
+.row-margin1{
+    margin-top: 30px;
+    padding-right: 10px;
+    padding-left: 10px;
+   
+}
+.sanitaryware{
+    font-size: 20px;
+    font-weight: 400;
+    padding: 10px 0px 10px 0px;
+    margin: 5px 0 12px 0px;
+    color: #757575;
+    font-family: "Poppins",sans-serif;
+    font-weight: 400;
+}
+.quotes{
+    background: #f7f7f7;
+    border-left: 4px solid #777;
+    padding: 20px 30px;
+    font-size: 17px;
+    line-height: 30px;
+    color: #777;
+    font-family: "Poppins",sans-serif;
+    font-weight: 520;
+ 
+}
+.know_more{
+    height: 41px;
+    padding: 0 11px;
+    font-size: 12px;
+    line-height: 41px;
+    font-weight: 500;
+    border-radius: 0;
+    border: 1px solid #777;
+    background-color: #5d5d5d;
+    color: #fff;
+    border-color: #5d5d5d;
+    margin-top: 15px;
+    text-decoration: none;
+}
+.row-margin2{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.bathwareimg2{
+    height: auto;
+    width: 100%;
+   
+      margin-bottom: 15px;
+}

@@ -1,0 +1,64 @@
+.alignment1{
+    overflow: hidden;
+}
+.division4{
+    width: 100%;
+}
+.Bathware{
+    text-align: left;
+    color: teal;
+    letter-spacing:7px ;
+    font-size: 30px;
+
+}
+.p3{
+    color: #777;
+    line-height: 28px;
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 16px;
+}
+.button2{
+    border-color: silver;
+    background-color: #fff;
+    color: rgb(46, 45, 45);
+    font-family: sans-serif;
+    margin-right: 30em;
+    width: 30%;
+    border-radius: 0;
+    font-size: 16px;
+    height: 45px;
+    position: relative;
+    cursor: pointer;
+    margin-top: 15px;
+    
+}
+.button2:hover{
+    background-color:grey;
+    color: white;
+}
+
+.bath3{
+    height: 18em;
+    width: 41.5%;
+    margin: 3.5px;
+    /* box-sizing: border-box; */
+}
+.bath1{
+    height: 18em;
+    width: 56%;
+    margin: 3px;
+
+    /* box-sizing: border-box; */
+
+}
+.bath2{
+    height: 24em;
+    width: 100%;
+
+    /* box-sizing: border-box; */
+
+}
+.align1{
+    margin-top: 7em;
+}
